@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SettingsScreenDemo</string>
+    <string name="my_profile">My Profile</string>
+    <string name="language">Change Language</string>
+    <string name="refresh_location">Refresh Location</string>
+    <string name="_whatsapp">Contact Admin Whatsapp</string>
+    <string name="request_del_account">Request to Delete My Account</string>
+</resources>
